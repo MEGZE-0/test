@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/customerchart-react/static/css/main.c40760ce.css",
+    "main.js": "/customerchart-react/static/js/main.77dd9e22.js",
+    "static/js/453.8ab44547.chunk.js": "/customerchart-react/static/js/453.8ab44547.chunk.js",
+    "index.html": "/customerchart-react/index.html",
+    "main.c40760ce.css.map": "/customerchart-react/static/css/main.c40760ce.css.map",
+    "main.77dd9e22.js.map": "/customerchart-react/static/js/main.77dd9e22.js.map",
+    "453.8ab44547.chunk.js.map": "/customerchart-react/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c40760ce.css",
+    "static/js/main.77dd9e22.js"
+  ]
+}
