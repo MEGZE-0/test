@@ -1,0 +1,71 @@
+/* App.css */
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f9;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+input[type="text"], input[type="number"] {
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 200px;
+}
+
+input[type="text"]:focus, input[type="number"]:focus {
+  border-color: #5e9fe3;
+  outline: none;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  background-color: #fff;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: left;
+}
+
+th {
+  background-color: #f4f4f4;
+  font-weight: bold;
+}
+
+tbody tr:hover {
+  background-color: #f1f1f1;
+}
+
+.chart-container {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.no-data {
+  text-align: center;
+  color: #777;
+  margin-top: 20px;
+}
+.customerinput{
+  text-align: center;
+  justify-content: center;
+  transition: transform 0.3s ease; 
+  box-shadow: 5px 5px 5px 5px rgb(0, 162, 255);
+  border-radius: 5px;
+  
+}    
+
+.customerinput:hover {
+    transform: translateY(-5px); 
+}
